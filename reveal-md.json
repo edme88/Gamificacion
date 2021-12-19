@@ -1,0 +1,6 @@
+{
+  "separator": "^---",
+  "verticalSeparator": "^----",
+  "css":"slides/css/filminas.css",
+  "scripts": "slides/js/init.js"
+}
